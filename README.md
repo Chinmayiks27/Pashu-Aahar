@@ -140,7 +140,7 @@ The application generates balanced feed recommendations based on cattle breed, a
 
 ## 📝 Registration Screen
 <p align="center">
-  <img src="registration_screen.jpeg" width="300"/>
+  <img src="register_screen.jpeg" width="300"/>
 </p>
 
 ## 🐄 Cow Profile Screen
