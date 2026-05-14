@@ -134,28 +134,44 @@ The application generates balanced feed recommendations based on cattle breed, a
 # 📱 Output Screenshots
 
 ## 🔐 Login Screen
-![Login Screen](login_screen.jpeg)
+<p align="center">
+  <img src="login_screen.jpeg" width="300"/>
+</p>
 
 ## 📝 Registration Screen
-![Registration Screen](register_screen.jpeg)
+<p align="center">
+  <img src="registration_screen.jpeg" width="300"/>
+</p>
 
 ## 🐄 Cow Profile Screen
-![Cow Profile](cow_profile_screen.jpeg)
+<p align="center">
+  <img src="cow_profile_screen.jpeg" width="300"/>
+</p>
 
-## 🎯 Yield Target & Ingredient Selection
-![Yield Target](yield_target_screen.jpeg)
+## 🎯 Yield Target Screen
+<p align="center">
+  <img src="yield_target_screen.jpeg" width="300"/>
+</p>
 
-## 📊 Scientific Nutrition Matrix
-![Nutrition Matrix](nutrition_matrix_screen.jpeg)
+## 🧪 Nutrition Matrix
+<p align="center">
+  <img src="nutrition_matrix_screen.jpeg" width="300"/>
+</p>
 
-## 💰 Feed Cost & Savings Result
-![Savings Result](savings_result_screen.jpeg)
+## 💰 Savings Result
+<p align="center">
+  <img src="savings_result_screen.jpeg" width="300"/>
+</p>
 
-## 📈 Savings History
-![History Screen](history_screen.jpeg)
+## 📈 History Screen
+<p align="center">
+  <img src="history_screen.jpeg" width="300"/>
+</p>
 
-## 🤖 AI Farm Advisor
-![AI Advisor](ai_advisor_screen.jpeg)
+## 🤖 AI Advisor
+<p align="center">
+  <img src="ai_advisor_screen.jpeg" width="300"/>
+</p>
 
 
 # 🚀 Installation
@@ -184,3 +200,5 @@ PashuAahar aims to support dairy farmers with smart technology, scientific cattl
 ---
 
 ⭐ Developed for the prosperity of Dairy Farmers ⭐
+
+
