@@ -60,7 +60,6 @@ Pashu-Aahar/
 │           │   ├── FirebaseManager.kt       # Firebase Auth & Firestore sync
 │           │   ├── NutritionEngine.kt       # Scientific feed calculation logic
 │           │   ├── GeminiAdvisor.kt         # Google Gemini AI integration
-│           │   ├── LanguageManager.kt       # English/Kannada bilingual support
 │           │   ├── IngredientPriceManager.kt # Local market price management
 │           │   ├── PreferenceManager.kt     # SharedPreferences helper
 │           │   ├── DailySavingWorker.kt     # WorkManager background task
