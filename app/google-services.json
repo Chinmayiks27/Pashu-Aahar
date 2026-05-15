@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "201614721261",
+    "project_id": "pashuaahar-57d74",
+    "storage_bucket": "pashuaahar-57d74.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201614721261:android:7e8e737053180b2e9b8ce4",
+        "android_client_info": {
+          "package_name": "com.pashuaahar.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyITQB99Bmzl6WTDkXlpU9P0nkbl2UyRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
