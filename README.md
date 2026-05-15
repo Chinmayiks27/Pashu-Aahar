@@ -28,9 +28,6 @@ The application generates balanced feed recommendations based on cattle breed, a
 ### 5. Veterinary Tips & Education
 - Provides essential tips on balanced diets, clean water, shed hygiene, and vaccination schedules.
 
-### 6. Bilingual Support 🇮🇳
-- Full support for **English** and **Kannada** — making the app accessible to local farmers.
-
 ---
 
 ## 🛠 Tech Stack
